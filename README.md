@@ -6,7 +6,7 @@
 - 💬 Me pergunte sobre: tecnologia | fotografia | cinema
 - 📸 Fato curioso: também sou fotográfa!
 
-# Em constante aprendizado:
+# Em constante aprendizagem:
 <div align="center">
   <a href="https://github.com/carolgal" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>  
   <a href="https://github.com/carolgal" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
@@ -18,8 +18,7 @@
 <div align="center">
   <a href="https://github.com/carolgal">
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=carolgal&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolgal&theme=blue-green"/>
-  <!-- <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolgal&layout=compact&langs_count=7&theme=cobalt"/> -->
+   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolgal&theme=cobalt"/>
 </div>
   
   ---
@@ -30,5 +29,5 @@
    <a href="https://t.me/carolgaleski" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
   
-  <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/carolgal) -->
+ <!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/carolgal) -->
   

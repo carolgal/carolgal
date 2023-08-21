@@ -14,20 +14,4 @@
 </div> 
 
 ##
-
-<div align="center">
-  <a href="https://github.com/carolgal">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolgal&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolgal&layout=compact&theme=cobalt" />
-</div> 
- 
-  ---
-  
-  <div align="center">
-  <a href="https://www.linkedin.com/in/carolgaleski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="mailto: galeskar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://t.me/carolgaleski" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-  
- <!--[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/carolgal) -->
   
